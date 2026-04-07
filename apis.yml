@@ -1,7 +1,11 @@
 aid: cst-brands
-url: https://raw.githubusercontent.com/api-evangelist/cst-brands/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/cst-brands/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.cst-brands.com
+description: >-
+  CST Brands was an independent retailer of motor fuels and convenience merchandise
+  operating under the Corner Store brand before being acquired by Couche-Tard.
