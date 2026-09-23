@@ -1,7 +1,9 @@
 ---
 title: CST Brands Investor Slams $4.4B Takeover By Couche-Tard
 url: https://www.law360.com/articles/846110/cst-brands-investor-slams-4-4b-takeover-by-couche-tard
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"CST Brands" press release artificial intelligence'
 position: 4
 source: serpapi-google

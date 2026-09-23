@@ -1,7 +1,9 @@
 ---
 title: Canada's Couche-Tard to buy Texas-based CST Brands in ...
 url: https://www.reuters.com/article/business/canadas-couche-tard-to-buy-texas-based-cst-brands-in-44-billion-deal-idUSKCN10X11Z/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"CST Brands" press release artificial intelligence'
 position: 2
 source: serpapi-google

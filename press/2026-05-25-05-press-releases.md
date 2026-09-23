@@ -1,7 +1,9 @@
 ---
 title: Press Releases
 url: https://www.ftc.gov/news-events/news/press-releases?initialSessionID=133-7900993-3289430&page=130
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"CST Brands" press release artificial intelligence'
 position: 5
 source: serpapi-google

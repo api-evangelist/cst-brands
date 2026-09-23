@@ -1,7 +1,9 @@
 ---
 title: CST Brands Inc. On CreditWatch Negative Following
 url: https://www.spglobal.com/ratings/en/regulatory/article/-/view/type/HTML/id/1572628
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"CST Brands" press release artificial intelligence'
 position: 3
 source: serpapi-google
