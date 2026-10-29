@@ -1,4 +1,4 @@
-# CST Brands (cst-brands)
+# CST Brands
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,34 +64,69 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-CST Brands was an independent retailer of motor fuels and convenience merchandise headquartered in San Antonio, Texas, operating under the Corner Store and other brands. The company was acquired by Alimentation Couche-Tard in 2017 and integrated into the Circle K convenience store network.
+CST Brands was an independent retailer of motor fuels and convenience merchandise headquartered in San Antonio, Texas, operating under the Corner Store and other brands. CST Brands was acquired by Alimentation Couche-Tard in 2017 and integrated into the Circle K convenience store network. The company does not currently expose a public developer API; this repository exists for historical reference and to track any future API artifacts.
 
-**APIs.yml URL:** https://raw.githubusercontent.com/api-evangelist/cst-brands/refs/heads/main/apis.yml
+**Areas:** Convenience Retail · Fuel Retail · Acquired · Historical
 
-## Scope
+## CST Brands on APIs.io
 
-- **Type:** Company
-- **x-type:** company
-- **Status:** Acquired (Couche-Tard, 2017)
+Everything profiled for CST Brands is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/cst-brands/](https://apis.io/providers/cst-brands/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+## Where to find this API
 
-Convenience Retail, Fuel Retail, Acquired, Historical
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-## APIs
+- [Website](https://www.cst-brands.com)
 
-CST Brands does not currently expose a public developer API. This repository exists for historical reference and to track any future API artifacts attributed to the CST Brands corporate entity.
+## API Evangelist rating
 
-## Use Cases
+**Kin Score 1.7** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-- Historical reference for legacy CST Brands APIs and developer resources
+| Facet | Score |
+|---|---|
+| Discoverability | 39.3 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 0.0 |
 
-## Resources
+**Agent readiness 0.0** — human-only
 
-- CST Brands legacy site: https://www.cst-brands.com
-- Acquirer (Couche-Tard): https://corporate.couche-tard.com/
-- Successor brand (Circle K): https://www.circlek.com/
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
 
-## Maintainers
+**Regulatory alignment 0.0** — Horizontal (data, software, accessibility, platform)
 
-- Kin Lane (kin@apievangelist.com)
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/cst-brands/](https://apis.io/providers/cst-brands/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for CST Brands: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/cst-brands/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
